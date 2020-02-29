@@ -6,7 +6,7 @@
 ```bash
 pkg install git
 pkg install python
-pip install Telethon==1.10.9
+pip install Telethon
 git clone https://github.com/D34DBOY/tag
 cd tag
 python tag.py
